@@ -1,4 +1,9 @@
-### Hi there 👋
+####  _76
+love corgis
+love/hate programming
+spontaenously working on projects
+why JetBrains so expensive 🥲
+
 
 <!--
 **chonkee-dave76/chonkee-dave76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
