@@ -1,8 +1,8 @@
 ####  _76
-love corgis
-love/hate programming
-spontaenously working on projects
-why JetBrains so expensive 🥲
+## love corgis
+## love/hate programming
+## spontaenously working on projects
+## why JetBrains so expensive 🥲
 
 
 <!--
